@@ -1,6 +1,6 @@
 # homebrew-devicefarm
 
-Homebrew repository to install devicefarm CLI.
+Homebrew repository to install [devicefarm CLI](https://github.com/apeace/devicefarm).
 
 # install
 
